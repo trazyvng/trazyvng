@@ -1,8 +1,19 @@
-- 👋 Hi, I’m Trazy
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning ccs
+<h1 align="center">Hi there👋, I'm Trazy</h1>
+<h3 align="center">A front-end junior developer from Venezuela</h3>
 
-<!---
-trazyvng/trazyvng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💬 About me
+- Backend web development (PHP)
+- Frontend web development (CSS, Javascript)
+- UX/UI enthusiast
+
+## 📅 Hobbies
+- Watch anime and TV shows
+- Read some manga
+- Play videogames
+
+## 💻 Current projects
+- Inventory web page
+
+## 📚 Learning
+- UX/UI
+- TypeScript
