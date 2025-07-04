@@ -7,12 +7,15 @@
 - UX/UI enthusiast
 
 ## 📅 Hobbies
-- Watch anime and TV shows
-- Read some manga
+- Watch movies and TV shows
+- Read some manga and comics
 - Play videogames
 
 ## 💻 Current projects
 - Inventory web page
+- Portfolio update
+- School web for uploading proyects
+- Finances spreadsheet
 
 ## 📚 Learning
 - UX/UI
