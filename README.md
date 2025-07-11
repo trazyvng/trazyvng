@@ -12,9 +12,7 @@
 - Play videogames
 
 ## 💻 Current projects
-- Inventory web page
 - Portfolio update
-- School web for uploading proyects
 - Finances spreadsheet
 
 ## 📚 Learning
