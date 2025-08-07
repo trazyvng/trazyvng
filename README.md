@@ -4,7 +4,7 @@
 ## 💬 About me
 - Backend web development (PHP)
 - Frontend web development (CSS, Javascript)
-- UX/UI enthusiast
+- UX/UI learner
 
 ## 📅 Hobbies
 - Watch movies and TV shows
@@ -18,6 +18,7 @@
 ## 📚 Learning
 - UX/UI
 - TypeScript
+- Frameworks (react)
 
 
 <h3 align="left">Languages and Tools:</h3>
